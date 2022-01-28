@@ -1,0 +1,17 @@
+{
+  "name": "mxgraph_resource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://nguyendnhat.github.io/mxgraphEditor/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "",
+    "deploy": "gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
